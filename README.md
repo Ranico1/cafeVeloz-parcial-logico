@@ -1,0 +1,1 @@
+# cafeVeloz-parcial-logico
